@@ -21,6 +21,6 @@ Package source code by removing comments and blank lines
 Type in the Matlab command window:
 
 ```sh
->> python cleanCOMMENT.py <input_file> <output_file> <programming_language> <Enter>
+~] python cleanCOMMENT.py <input_file> <output_file> <programming_language> <Enter>
 ```
 
